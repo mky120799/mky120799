@@ -43,7 +43,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yadav11/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<p align="center">
+
 <a href="mailto:mky120799@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 </p>
