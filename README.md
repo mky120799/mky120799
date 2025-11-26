@@ -1,1 +1,76 @@
+<!-- Intro -->
+<h1 align="center">Hi 👋, I'm Mithilesh</h1>
+<h3 align="center">Full Stack Developer | Node.js | MERN | AWS | Docker</h3>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+Backend+Engineer;MERN+Stack+Developer;AWS+%7C+Docker+%7C+Microservices;Always+Learning+New+Things!&center=true&width=550&height=45" />
+</p>
+
+---
+
+<!-- About Me -->
+### 👨‍💻 About Me  
+- 🔭 I’m currently working on **ShopClues Clone | HRMS Portal | BankAssist Ticketing System**  
+- 🌱 Deep-diving into **AWS, Docker, Microservices, System Design**  
+- ⚡ Passionate about **Backend Engineering** & high-performance systems  
+- 🚀 Love turning ideas into scalable real-world projects  
+- 💬 Ask me about **Node.js, Express, MongoDB, MySQL, JWT, React, AWS**
+
+---
+
+<!-- Skills -->
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap" />
+
+### 🧰 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,nginx,postman,vercel" />
+
+### ⚙️ Others  
+<img src="https://skillicons.dev/icons?i=linux,vscode,bash,figma" />
+
+---
+
+<!-- Stats Section -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mky1207&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com?user=mky1207&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mky1207&theme=radical&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🧩 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mky1207&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mithilesh-yaduvanshi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="mailto:mithilesh.yaduvanshi1207@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+</p>
+
+---
+
+### ⭐ If you like my work, consider giving a star to my repositories!
