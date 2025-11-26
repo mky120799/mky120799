@@ -42,8 +42,8 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mithilesh-yaduvanshi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="mailto:mithilesh.yaduvanshi1207@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+<a href="https://www.linkedin.com/in/yadav11/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="mailto:mky120799@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 
 ---
