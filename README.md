@@ -10,8 +10,7 @@
 ---
 
 <!-- About Me -->
-### 👨‍💻 About Me  
-- 🔭 I’m currently working on **ShopClues Clone | HRMS Portal | BankAssist Ticketing System**  
+### 👨‍💻 About Me 
 - 🌱 Deep-diving into **AWS, Docker, Microservices, System Design**  
 - ⚡ Passionate about **Backend Engineering** & high-performance systems  
 - 🚀 Love turning ideas into scalable real-world projects  
@@ -40,25 +39,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mky1207&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mky1207&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://streak-stats.demolab.com?user=mky1207&theme=tokyonight" height="170"/>
 </p>
 
----
+## 🧩 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mky1207&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🏆 GitHub Profile Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mky1207&theme=radical&margin-w=10&margin-h=10" />
 </p>
 
----
-
-## 🧩 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mky1207&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 
 
