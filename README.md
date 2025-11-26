@@ -35,25 +35,6 @@
 
 ---
 
-<!-- Stats Section -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mky1207&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://streak-stats.demolab.com?user=mky1207&theme=tokyonight" height="170"/>
-</p>
-
-## 🧩 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mky1207&layout=compact&theme=tokyonight" />
-</p>
-
-## 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mky1207&theme=radical&margin-w=10&margin-h=10" />
-</p>
-
-
 
 
 ---
